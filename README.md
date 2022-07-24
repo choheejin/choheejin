@@ -9,7 +9,7 @@
 
 ## :pencil: Baekjoon :pencil:
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hjcho9510)](https://solved.ac/hjcho9510)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjcho9510)](https://solved.ac/hjcho9510)
 
 
 </div>
