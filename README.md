@@ -1,5 +1,7 @@
 <div align='center'>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Choheejin&fontAlign=50&fontAlignY=40&color=gradient" />
+
 ## :computer: Tech Stacks :computer:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
