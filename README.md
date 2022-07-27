@@ -12,6 +12,8 @@
 ## :pencil: Baekjoon :pencil:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjcho9510)](https://solved.ac/hjcho9510)
+<img src="http://mazandi.herokuapp.com/api?handle=hjcho9510&theme=cold"/>
+
 
 
 </div>
